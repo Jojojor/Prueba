@@ -1,3 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="The Last Of Us 1x1"  tvg-logo="https://pics.filmaffinity.com/The_Last_of_Us_Serie_de_TV-364516053-large.jpg"  group-title="Serie  ",The  Last Of Us 1x1
 https://server23.pelispluscdn.info:443/newhls/719151f76a16770395f3ed1aab73911d/EP.5.1.v3.1676444366.720.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Nombre del video" tvg-logo="Link de imagen" group-title="Categoría del video  ",Nombre del video.
+https://fvs.io/redirector?token=eXMwVkJCQVlMQ29zRXdULzdHRFcxVkpVYk11RVAwTXE5eGtwMTVmMTAxcDZUdWdmZHR1WjlCM21MS05laHgraENxbVNkSkV6ZCt5QUdPSGgraWR5RGZJTGI5YkQwSWkxOFI5eEZqVktNUTV4N1EwTXQxelcxbmkvcTlQcGVuY2dVbi85SWVZQ1lNMHR3clNHdzZDclBWeUo4WnlFUGxDQ2pnWT06ZzFTb3pIRDVwck5KYlVOUFAwU3F1QT09qV2E
